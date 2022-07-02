@@ -51,3 +51,4 @@ Learn more about [Figment](https://figment.io/) and [Figment Learn](https://lear
 [Join us on Discord](https://discord.com/invite/fszyM7K) if you have any feedback or questions!
 
 -- The Figment Learn Team
+# crypto-wallet
